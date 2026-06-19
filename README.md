@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Silueta en la oscuridad |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-en-la-oscuridad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Silueta en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-en-la-oscuridad/) |
+| **Get License** | [Request Licensing for Silueta en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-en-la-oscuridad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Buscando tu luz en la disco, baby, you shine so bright
-> Tú tienes el mando del juego, la dueña de la night
-> Un movimiento suave, fuego y electricidad
-> Me pierdo pa' siempre en tu silueta en la oscuridad
+> Silueta en la oscuridad
+> Tu cuerpo llama y no puedo escapar
+> Tus labios saben a tempestad
+> Sayed te quiere hacer volar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
