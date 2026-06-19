@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-en-la-oscuridad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Silueta en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-en-la-oscuridad/) |
+| **Get License** | [Request Licensing for Silueta en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-en-la-oscuridad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Buscando tu luz en la disco, baby, you shine so bright
+> Tú tienes el mando del juego, la dueña de la night
+> Un movimiento suave, fuego y electricidad
+> Me pierdo pa' siempre en tu silueta en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
