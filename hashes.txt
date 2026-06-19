@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Silueta 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:30:32.723116 | `v1` | `bbca97262cd93656e95c4153c77f70d35a6daf0e835a18209f673d9678f2aa39` | `b1d8e9b2ee7312c7a967388aa8f2b0198a4e78ed8f782d6f8096ccbedc935bc6` | `2026-06-20_silueta-en-la-oscuridad-v1.txt` |
+| 2026-06-20T02:14:04.495136 | `v2` | `bb6586f079799d25769973e49a3c9b7b859c5711072518a0e6a700a035171fe8` | `83f81a51908ae2c0ea19cd10eed653ed049bcc4559602b33617c4c13d61779cb` | `2026-06-20_silueta-en-la-oscuridad-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
